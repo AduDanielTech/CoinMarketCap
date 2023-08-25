@@ -1,0 +1,4 @@
+npx create-next-app my-app --use-tailwindcss
+npm install netlify-cli -g
+ntl dev
+ntl init
